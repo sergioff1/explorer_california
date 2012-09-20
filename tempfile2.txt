@@ -1,0 +1,18 @@
+commit d8d180599e9814b7bdc2ef7f0602befbf3dc9dcf
+Author: Sergio Ferreira <Serfern@msn.com>
+Date:   Thu Sep 20 17:27:59 2012 -0400
+
+    Revert "Rearrange the items to bring on an outdoor trip"
+    
+    This reverts commit d3e77be191117feb798ed2773f29900b4811275f.
+
+commit f35d859e6978563649afc1b51c1bf38c12c97a1c
+Author: Sergio Ferreira <Serfern@msn.com>
+Date:   Wed Sep 19 21:57:07 2012 -0400
+
+    Rename Backpac Cal file for clarity
+
+commit 6f9cea1904862ed631c5a516fdb373b537d2b56a
+Author: Sergio Ferreira <Serfern@msn.com>
+Date:   Wed Sep 1m>
+Date:   Wed Sep 19 20:44:04 2012 -0400
